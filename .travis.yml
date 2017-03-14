@@ -1,5 +1,5 @@
 language: node_js
-node_js: nodegit status
+node_js: node status
 deploy:
   provider: heroku
   api_key:
