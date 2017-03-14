@@ -2,8 +2,8 @@ language: node_js
 node_js: node status
 deploy:
   provider: heroku
-  api_key:
-    secure: 0qxq1aiMMPjeRpZXhkXwhvgTqZDH66yeNA7DUoAR+ydvnRe1MpKItW3h7G1kcnbyyIdkTtu27ppddBsOqlVwMwFDDNLer1yQuzdoFXlERSuVR6AnHnr/FZmsLX7rMW5fNT/AdFMBOl1+QtKBejGERZTMguvg/s2Oi0llAFjWuXT+e3B2tvbTnyjosnfB6kXoIhn9g6AKcyVxiacWEwDXt4YUvgyW8NHFdYDWBDVeRktTqY0dFqW1ECvkb6IoLUWgB77x9PkeK7z+1mhtmKAJnt4mFsuE1tHHabu/OVDabVdx/Iqc7i7JHuaYMIBFOIS/p4Grgg4mTk34UF6VxYmp5R5CjJxkhsaajFkIn78OoWvS8eM4Xw9PeoM6jHz7CA+X6jfnsPaipgUC4+NkcD8QItQiigE3y9ZfY3Ab/iQnyZiDAffTFNQFuWbyieWORy8P1uUugCu7ZSzV/R+57u6RW0W48DZS9Qrsj0b0odyAzH4GX6GHFRJC+X6zeGAheD0iZqRosIb495rHlmTMzgbbKKpSQBblA0lkn3kSUuEaSBdfI1zCF1+wwVJwjl/UpkiESXEBLFyc+ibhCBx43WHGGpQW1H5oBvSOAf8NqiLsVGCsIozLJTH8x1kAKtL4BTaAyENS5uPwOxQnOp8Gv59kC3KMe9yc+k5XqTsQbl0jYH0=
+  api_key: 
+    secure: b98505ec-78c8-4480-b0f8-fbaa5f1bf062
   app: sleepy-taiga-41671
   on:
     repo: afroose/node-shopping-list-integration-tests
